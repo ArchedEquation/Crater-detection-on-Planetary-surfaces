@@ -1,0 +1,15 @@
+
+env/
+.env
+cnn_data/
+runs/
+*.pt
+
+
+.ipynb_checkpoints/
+
+
+.vscode/
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,7 @@
+
+train: cnn_data/craters/train/images
+val: cnn_data/craters/valid/images
+test: cnn_data/craters/test/images
+
+nc: 1  # number of classes
+names: ['class_0']  # class names
